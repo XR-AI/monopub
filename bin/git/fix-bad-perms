@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+################################################################################
+#!/bin/bash
+
+# This script pairs with find-bad-perms. If one likes the results of the find,
+# this will efficiently remove the executable permission from those files. Or
+# of course one can fly blind and just fire this with checking find first.
+
+$(git root)/bin/git/get-bad-perms | tr '\n' '\0' | xargs -0 chmod -x

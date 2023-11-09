@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+################################################################################
+#!/bin/bash
+
+# This script finds repo files that have executable permission set when they
+# shouldn't such as .asset files, .cs files, etc. Unity on Windows has a bad
+# habit of changing every file to executable or even chmod 777.
+
+TMP_GITLS=$(mktemp)
+TMP_FINDS=$(mktemp)
+PERMEX="/a+x"
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    PERMEX="+0111"
+fi
+
+git ls-files | sort > $TMP_GITLS
+
+find . \
+   -path '*/.git' -prune -o \
+   -path '*/bin' -prune -o \
+   -path './libs/shared' -prune -o \
+   -path '*/React/node_modules' -prune -o \
+   -path '*/Unity/Temp' -prune -o \
+   -path '*/Unity/Library' -prune -o \
+   -path '*/Unity/Assets/Packages' -prune -o \
+   \( \
+      -type f \
+      -perm $PERMEX \
+      -not -path './.git*' \
+      -not -regex ".*\.\(exe\|sh\)$" \
+   \) \
+ | sed 's/^\.\///' | sort \
+ > $TMP_FINDS
+
+join -t '' $TMP_GITLS $TMP_FINDS
+
+rm $TMP_GITLS $TMP_FINDS
