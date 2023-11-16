@@ -1,0 +1,93 @@
+.card2 {
+    width: 250px;
+    border-radius: 20px;
+    background: #1b233d;
+    padding: 10px;
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+    transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    margin: 15px;
+}
+
+.card2:hover {
+    transform: scale(1.15); /*default ii 1.05*/
+}
+
+.card2 .top-section {
+    height: 180px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(45deg, rgb(4, 159, 187) 50%, rgb(4, 87, 196) 100%);
+    position: relative;
+}
+
+.card2 img {
+    width: 150px;
+    height: 150px;
+    align-self: center;
+    object-fit: contain;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 15%;
+}
+
+
+.card2 .top-section .border {
+    border-bottom-right-radius: 10px;
+    height: 30px;
+    width: 130px;
+    background: white;
+    background: #1b233d;
+    position: relative;
+    transform: skew(-40deg);
+    box-shadow: -10px -10px 0 0 #1b233d;
+}
+
+
+.card2 .bottom-section {
+    margin-top: 25px;
+    padding: 10px 5px;
+}
+
+.card2 .bottom-section .title {
+    display: block;
+    font-size: 17px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.card2 .bottom-section .row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.card2 .bottom-section .row .item {
+    flex: 30%;
+    text-align: center;
+    padding: 5px;
+    color: rgba(170, 222, 243, 0.721);
+}
+
+.card2 .bottom-section .row .item .big-text {
+    font-size: 12px;
+    display: block;
+}
+
+.card2 .bottom-section .row .item .regular-text {
+    font-size: 9px;
+}
+
+.card2 .bottom-section .row .item:nth-child(2) {
+    border-left: 1px solid rgba(255, 255, 255, 0.126);
+    border-right: 1px solid rgba(255, 255, 255, 0.126);
+}
+
+.category{
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+}

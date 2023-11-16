@@ -1,0 +1,149 @@
+[
+    {
+        "download": "https://xraiwebsite.blob.core.windows.net/share/xrai-beam.apk",
+        "name": "XRAI Glass",
+        "icon": "https://xraiwebsite.blob.core.windows.net/share/xrai-logomark-purple.png",
+        "version": "20231107.1...86",
+        "category": "Tools"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.cxinventor.file.explorer?version=latest",
+        "name": "CX File Explorer",
+        "icon": "https://play-lh.googleusercontent.com/JE8mALosCn5ShZ1JW-rZYlaFP9CXs-wNBTqUalhQT6f4LpQtUqybp305E3hSruPtHJQ",
+        "version": "2.0.3",
+        "category": "Tools"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.dslit.floatingclock?version=latest",
+        "name": "Floating Clock",
+        "icon": "https://play-lh.googleusercontent.com/WAFjAmJrDrStaERkx_nzlIjEUDnsiCfYCILcon2tmdDwo47LL9yKS4F7JR58YKnYGk8",
+        "version": "1.1.5",
+        "category": "Tools"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/org.videolan.vlc?version=latest",
+        "name": "VLC Media Player",
+        "icon": "https://image.winudf.com/v2/image1/b3JnLnZpZGVvbGFuLnZsY19pY29uXzE1NTc1MDk0MTJfMDk1/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "3.5.4",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.mxtech.videoplayer.ad?version=latest",
+        "name": "MX Player",
+        "icon": "https://archive.org/download/mx-player-logo-450x450/mx-player-logo-450x450.png",
+        "version": "1.73.1",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/tv.emby.embyatv?version=latest",
+        "name": "Emby for Android TV",
+        "icon": "https://image.winudf.com/v2/image1/dHYuZW1ieS5lbWJ5YXR2X2ljb25fMTU1MzA5Mzg5MF8wMTI/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "2.0.98",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/org.mozilla.firefox?version=latest",
+        "name": "Firefox",
+        "icon": "https://image.winudf.com/v2/image1/b3JnLm1vemlsbGEuZmlyZWZveF9pY29uXzE1OTE3MjIwNDdfMDA1/icon.webp?w=280&fakeurl=1&type=.webp",
+        "version": "119.1.1",
+        "category": "Browser"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.kiwibrowser.browser?version=latest",
+        "name": "Kiwi Browser",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmtpd2licm93c2VyLmJyb3dzZXJfaWNvbl8xNTYxNTg4NjMxXzAxNg/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "116.0.5845.240",
+        "category": "Browser"
+    },
+    {
+        "download": "https://download.apkcombo.com/com.opera.browser/Opera_78.4.4143.75735_apkcombo.com.apk?ecp=Y29tLm9wZXJhLmJyb3dzZXIvNzguNC40MTQzLjc1NzM1LzE5MDc4MTcyMDUuNmNiM2MxMzU1NWZhNTU5ZmE2YmVlY2Y0MzUzN2Y4YTE1MGM3YTI0Ny5hcGs=&iat=1699711462&sig=43c6cee75a3ef692b52d9c86fc71d230&size=126705557&from=cf&version=latest&lang=en&fp=70726a6630d27257c7461887e13325aa&ip=47.208.218.174",
+        "name": "Opera",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLm9wZXJhLmJyb3dzZXJfaWNvbl8xNjg1NzI3MTU1XzA5OQ/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "78.4.4143.75735",
+        "category": "Browser"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.android.chrome?version=latest",
+        "name": "Chrome",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmFuZHJvaWQuY2hyb21lX2ljb25fMTU2NTA1NDA0Ml8wNjQ/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "118.0.5993.48",
+        "category": "Browser"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.google.earth?version=latest",
+        "name": "Google Earth",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmdvb2dsZS5lYXJ0aF9pY29uXzE1NjU4OTM4MjhfMDk0/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "10.40.0.2",
+        "category": "Tools"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/tv.parsec.client?versionCode=315004600",
+        "name": "Parsec",
+        "icon": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/s9gtax3iyy335716b9kc",
+        "version": "3.150.046.00",
+        "category": "Tools"
+    },
+    {
+        "download": "https://download.apkcombo.com/com.limelight/Moonlight_12.0.2_apkcombo.com.apk?ecp=Y29tLmxpbWVsaWdodC8xMi4wLjIvMzEzLjNmZWE5YWQ1NDg0ZjkxYjI4ZTRhNDFhODE2OGI0ZTQzYzAxOGYzYTkuYXBr&iat=1699800031&sig=1ec69a9b0069319117bc13a4d5480811&size=6718510&from=cf&version=latest&lang=en&fp=70726a6630d27257c7461887e13325aa&ip=47.208.218.174",
+        "name": "MoonLight",
+        "icon": "https://play-lh.googleusercontent.com/QGBq_X2ewz_3HUR9AUI3NXcOjfVJd-Mf1l66-3D6zMzF-HN81f_KeZ-shqxRE633I3M=s75-rw",
+        "version": "12.0.2",
+        "category": "Tools"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.whatsapp?version=latest",
+        "name": "Whatsapp",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLndoYXRzYXBwX2ljb25fMTU1OTg1MDA2NF8wNjI/icon.webp?w=106&fakeurl=1&type=.webp",
+        "version": "2.23.23.72",
+        "category": "Comms"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.discord?version=latest",
+        "name": "Discord",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmRpc2NvcmRfaWNvbl8xNjI2ODI3OTExXzA0Nw/icon.webp?w=106&fakeurl=1&type=.webp",
+        "version": "203.10",
+        "category": "Comms"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.reddit.frontpage?version=latest",
+        "name": "Reddit",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLnJlZGRpdC5mcm9udHBhZ2VfaWNvbl8xNjkxNDU1MDQyXzAxMQ/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "2023.44.0",
+        "category": "Comms"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.disney.disneyplus?version=latest",
+        "name": "Disney+",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmRpc25leS5kaXNuZXlwbHVzX2ljb25fMTU2ODI0MDc4NF8wNDU/icon.webp?w=106&fakeurl=1&type=.webp",
+        "version": "2.25.2-rc3",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.cbs.app?version=latest",
+        "name": "Paramount+",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmNicy5hcHBfaWNvbl8xNjE0ODQ2MDI4XzA5Nw/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "12.0.70",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.hulu.plus?version=latest",
+        "name": "Hulu",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmh1bHUucGx1c19pY29uXzE2MTk1NTIxMzZfMDg5/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "5.3.0",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/org.schabi.newpipe?version=latest",
+        "name": "NewPipe",
+        "icon": "https://image.winudf.com/v2/image/b3JnLnNjaGFiaS5uZXdwaXBlX2ljb25fMF9mMGUyZTA4MQ/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "0.25.2",
+        "category": "Media"
+    },
+    {
+        "download": "https://d.apkpure.com/b/APK/com.apple.android.music?version=latest",
+        "name": "Apple Music",
+        "icon": "https://image.winudf.com/v2/image1/Y29tLmFwcGxlLmFuZHJvaWQubXVzaWNfaWNvbl8xNjAzNzQwNjYxXzA2NQ/icon.webp?w=212&fakeurl=1&type=.webp",
+        "version": "8.0",
+        "category": "Media"
+    }
+]
